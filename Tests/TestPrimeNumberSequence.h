@@ -1,0 +1,8 @@
+//
+// Created by user on 3/6/2022.
+//
+
+#ifndef MAIN_CPP_TESTPRIMENUMBERSEQUENCE_H
+#define MAIN_CPP_TESTPRIMENUMBERSEQUENCE_H
+void testPrimeNumberSequence();
+#endif //MAIN_CPP_TESTPRIMENUMBERSEQUENCE_H
