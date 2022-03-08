@@ -1,5 +1,5 @@
 #include <cassert>
-#include "../problem/SequenceInterval.h"
+#include "../problems/SequenceInterval.h"
 
 //
 // Created by user on 3/6/2022.

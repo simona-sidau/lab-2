@@ -1,5 +1,5 @@
 #include <cassert>
-#include "../problem/PrimeNumberSequence.h"
+#include "../problems/PrimeNumberSequence.h"
 
 //
 // Created by user on 3/6/2022.
