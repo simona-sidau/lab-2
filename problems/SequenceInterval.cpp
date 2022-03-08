@@ -2,11 +2,6 @@
 //
 // Created by user on 3/6/2022.
 //
-/*void show_sequence(int k, int n, int v[]) {
-    for (int i = k; i <= n; i++)
-        std::cout << v[i] << " ";
-    std::cout << std::endl;
-}*/
 void getResultInterval(int start, int end, int v[], int result[]) {
     int j = -1;
     for (int i = start; i <= end; i++)
